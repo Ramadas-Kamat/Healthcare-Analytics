@@ -62,21 +62,3 @@ tensorboard --logdir='logs/multilayer_perceptron'
 ```
 
 Please note that because of the small size of the train dataset results can be erratic and may vary widely between two different runs of training.
-
-## Contributors (_sorted alphabetically_)
-
-* **[Francisco Duran](https://github.gatech.edu/fgfjg3)**
-
-    * Feature/cohort data extraction using big data tools
-
-* **[Harsh Kohli](https://github.gatech.edu/hkohli3)**
-
-    * Machine Learning/Highway Maxout Network modeling
-  
-* **[Jennifer S. Johnson](https://github.gatech.edu/gtg147t)**
-
-    * Project integration and final deliverables
-
-* **[Partha Sarathi Bera](https://github.gatech.edu/pbera3)**
-
-    * Feature/cohort data extraction
