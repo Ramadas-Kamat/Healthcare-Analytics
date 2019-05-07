@@ -1,0 +1,12 @@
+input_size: 121
+batch_size: 32
+preprocessed_input_file: data/Demographics.csv
+num_iterations: 10000
+drop_rate: 0.5
+learning_rate: 0.0005
+checkpoint: 100
+save_dir: saved_models/
+log_dir: logs/
+classifier_type: highway_maxout
+embedding_dim: 25
+hidden_size: 200
